@@ -26,7 +26,7 @@
     "yiisoft/yii2": "~2.0.6",
     "yiisoft/yii2-bootstrap": "~2.0.6",
     "yiisoft/yii2-swiftmailer": "~2.0.6",
-    "yeesoft/yii2-yee-core": "~0.1.0",
+    "asbsoft/yii2-yee-core": "~0.1.0",
     "yeesoft/yii2-yee-auth": "~0.1.0",
     "yeesoft/yii2-yee-user": "~0.1.0",
     "yeesoft/yii2-yee-settings": "~0.1.0",
